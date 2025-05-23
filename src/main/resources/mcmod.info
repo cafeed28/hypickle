@@ -1,15 +1,13 @@
 [
   {
     "modid": "${modid}",
-    "name": "Xample Mod",
-    "description": "A mod that is used as an example.",
+    "name": "Hypickle",
+    "description": "Replaces every 'hypixel' text with 'hypickle'",
     "version": "${version}",
     "mcversion": "${mcversion}",
-    "url": "https://github.com/romangraef/Forge1.8.9Template/",
+    "url": "https://github.com/cafeed28/hypickle",
     "updateUrl": "",
-    "authorList": [
-      "You"
-    ],
+    "authorList": ["cafeed28"],
     "credits": "",
     "logoFile": "",
     "screenshots": [],
